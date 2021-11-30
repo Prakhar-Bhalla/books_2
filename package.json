@@ -1,0 +1,22 @@
+{
+  "name": "books_2",
+  "version": "1.0.0",
+  "description": "second assignment backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakhar-Bhalla/books_2.git"
+  },
+  "author": "Prakhar Bhalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakhar-Bhalla/books_2/issues"
+  },
+  "homepage": "https://github.com/Prakhar-Bhalla/books_2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
